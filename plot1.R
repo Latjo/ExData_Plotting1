@@ -1,4 +1,3 @@
-### Exploratory Data Analysis - Course Project 1
 ## Create plot1
 
 # Read data into a table
